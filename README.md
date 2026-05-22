@@ -57,7 +57,7 @@ Este curso SÍ busca:
 
 ---
 
-# 🧩 MÓDULO 1 — Introducción al Mundo Web
+# 🧩 MÓDULO 1 — [Introducción al Mundo Web](introducción-al-mundo-web.md)
 
 ## Objetivo
 
@@ -111,7 +111,7 @@ Entender qué es Internet y cómo funciona una página web.
 
 ---
 
-# 🧩 MÓDULO 2 — Primeros Pasos con HTML
+# 🧩 MÓDULO 2 — [Primeros Pasos con HTML](./primeros-pasos-con-html.md)
 
 ## Objetivo
 
@@ -155,7 +155,7 @@ Perder el miedo al código y entender las etiquetas.
 
 ---
 
-# 🧩 MÓDULO 3 — Cómo Piensa el Navegador
+# 🧩 MÓDULO 3 — [Cómo Piensa el Navegador](./cómo-piensa-el-navegador.md)
 
 ## Objetivo
 
@@ -190,7 +190,7 @@ Comprender qué ocurre realmente cuando abrimos una página.
 
 ---
 
-# 🧩 MÓDULO 4 — La Estructura Base de Toda Web
+# 🧩 MÓDULO 4 — [La Estructura Base de Toda Web](./la-estructura-base-de-toda-web.md)
 
 ## Objetivo
 
@@ -240,7 +240,7 @@ Aprender el esqueleto correcto de cualquier página HTML.
 
 ---
 
-# 🧩 MÓDULO 5 — Etiquetas Fundamentales de HTML
+# 🧩 MÓDULO 5 — [Etiquetas Fundamentales de HTML](./etiquetas-fundamentales-de-html.md)
 
 ## Objetivo
 
@@ -307,7 +307,7 @@ Aprender las etiquetas esenciales realmente necesarias.
 
 ---
 
-# 🧩 MÓDULO 6 — HTML Semántico Profesional
+# 🧩 MÓDULO 6 — [HTML Semántico Profesional](./html-semántico-profesional.md)
 
 ## Objetivo
 
@@ -362,7 +362,7 @@ Aprender a estructurar páginas como un desarrollador profesional.
 
 ---
 
-# 🧩 MÓDULO 7 — Contenido Inteligente y Multimedia
+# 🧩 MÓDULO 7 — [Contenido Inteligente y Multimedia](/contenido-inteligente-y-multimedia.md)
 
 ## Objetivo
 
@@ -406,7 +406,7 @@ Aprender a trabajar contenido moderno y optimizado.
 
 ---
 
-# 🧩 MÓDULO 8 — Interacción y Navegación con Teclado
+# 🧩 MÓDULO 8 — [Interacción y Navegación con Teclado](/interacción-y-navegación-con-teclado.md)
 
 ## Objetivo
 
@@ -451,7 +451,7 @@ Construir páginas utilizables para todas las personas.
 
 ---
 
-# 🧩 MÓDULO 9 — Formularios Modernos y Accesibles
+# 🧩 MÓDULO 9 — [Formularios Modernos y Accesibles](./formularios-modernos-y-accesibles.md)
 
 ## Objetivo
 
@@ -501,7 +501,7 @@ Crear formularios profesionales y fáciles de usar.
 
 ---
 
-# 🧩 MÓDULO 10 — Accesibilidad Web Moderna
+# 🧩 MÓDULO 10 — [Accesibilidad Web Moderna](./accesibilidad-web-moderna.md)
 
 ## Objetivo
 
@@ -545,7 +545,7 @@ Entender cómo construir sitios inclusivos.
 
 ---
 
-# 🧩 MÓDULO 11 — Rendimiento y Optimización
+# 🧩 MÓDULO 11 — [Rendimiento y Optimización](./rendimiento-y-optimización.md)
 
 ## Objetivo
 
@@ -578,7 +578,7 @@ Aprender cómo hacer páginas rápidas.
 
 ---
 
-# 🧩 MÓDULO 12 — Errores Reales que Cometen los Principiantes
+# 🧩 MÓDULO 12 — [Errores Reales que Cometen los Principiantes](./errores-reales-que-cometen-los-principiantes.md)
 
 ## Objetivo
 
@@ -611,65 +611,6 @@ Evitar malos hábitos desde el inicio.
 ### ✅ Validador W3C
 
 - Revisar errores reales de sintaxis.
-    
-
----
-
-# 🧩 MÓDULO 13 — HTML para la Vida Real
-
-## Objetivo
-
-Construir páginas útiles y motivadoras.
-
-## Proyectos prácticos
-
-### 🧾 Proyecto 1
-
-CV online.
-
-### 🍽 Proyecto 2
-
-Página de recetas.
-
-### 📰 Proyecto 3
-
-Blog o periódico simple.
-
-### 🏢 Proyecto 4
-
-Página de negocio local.
-
-### 🛒 Proyecto 5
-
-Landing page para vender un producto.
-
-### 👨‍💻 Proyecto 6
-
-Portafolio personal.
-
----
-
-# 🧩 MÓDULO 14 — Publicar Sitios en Internet
-
-## Objetivo
-
-Subir proyectos reales a Internet.
-
-## Temas
-
-### 🌍 GitHub Pages
-
-- Subir un proyecto gratis.
-    
-
-### ⚡ Netlify
-
-- Publicación rápida.
-    
-
-### 🔗 Compartir proyectos
-
-- Cómo enviar tu sitio al mundo.
     
 
 ---
