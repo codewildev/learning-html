@@ -667,27 +667,27 @@ Explorar Facebook, YouTube o Google motiva muchísimo a los estudiantes.
 
 ## Documentación
 
-- MDN Web Docs
+- [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML)
     
-- lenguajehtml.com
+- [lenguajehtml.com](https://lenguajehtml.com/)
     
 
 ## Herramientas
 
-- VSCode
+- [VSCode](https://code.visualstudio.com/)
     
-- Chrome DevTools
+- [Chrome DevTools](https://developer.chrome.com/docs/devtools?hl=es-419)
     
-- Lighthouse
+- [Lighthouse](https://chromewebstore.google.com/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=es)
     
 
 ## Sitios para practicar
 
-- Frontend Mentor
+- [Frontend Mentor](https://www.frontendmentor.io/)
     
-- CodePen
+- [CodePen](https://codepen.io/)
     
-- CSS Battle
+- [CSS Battle](https://cssbattle.dev/)
     
 
 ---
